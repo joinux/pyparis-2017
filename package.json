@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "fsevents": "1.1.0",
+    "moment": "2.3.x",
+    "typogr": "0.5.x",
+    "underscore": "1.4.x",
+    "wintersmith": "^2.3.1",
+    "wintersmith-less": "^1.0.0",
+    "wintersmith-nunjucks": "^0.5.1"
+  },
+  "repository": "none"
+}
