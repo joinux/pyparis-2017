@@ -2,17 +2,18 @@
 
 {% block body %}
 <div class="banner-picto">
-  <img src="/static/images/PyDataLogoBig-Paris2015.png">
+  <img src="/static/images/PyParis.png">
 </div>
 
 <div class="banner-motto">
-  <p>A conference for developers and users of Python data tools</p>
+  <p>A conference for developers and users of Python</p>
 </div>
 
 <div class="banner-date-location">
-  <p class="date">April 3, 2015 </p>
+  <p class="date">June 12-13, 2017 </p>
 
-  <p class="location">Location: Telecom Paristech, 46 rue Barrault, 75013 Paris,
+  <p class="location">Location: Pôle Universitaire Léonard de Vinci, Paris La
+    Défense,
     France</p>
 </div>
 
@@ -22,84 +23,77 @@
       <div class="col-md-offset-1 col-md-11 col-sm-12">
         <h2>About</h2>
       </div>
+
       <div class="col-md-offset-1 col-md-5 col-sm-12">
-        <p>PyData conferences are a gathering of users and developers of data
-          analysis tools in Python. The goals are to provide Python enthusiasts
+        <p>The PyParis conference is a gathering of users and developers of the
+          Python programming language.</p>
+
+        <p>The goals are to provide Python enthusiasts
           a place to share ideas and learn from each other about how best to
           apply the language and tools to ever-evolving challenges in the vast
-          realm of data management, processing, analytics, and
-          visualization.</p>
-
-        <p>We aim to be an accessible, community-driven conference, with
-          tutorials for novices, advanced topical workshops for practitioners,
-          and opportunities for package developers and users to meet in
-          person.</p>
+          realm of application development, scientific computing, data
+          analytics,
+          education, cloud, devops...</p>
       </div>
+
       <div class="col-md-5 col-sm-12">
-        <p>A major goal of PyData events and conferences is to provide a venue
-          for users across all the various domains of data analysis to share
+        <p>A major goal of our conference is to provide a venue
+          for users across all the various domains where Python is currently
+          used to share
           their experiences and their techniques, as well as highlight the
           triumphs and potential pitfalls of using Python for certain kinds of
           problems.</p>
 
-        <p>PyData Paris 2015 is organized by <a
+
+        <p>PyParis 2017 is organized by <a
             href="http://www.systematic-paris-region.org/">Systematic Paris
-          Region</a>, with the
-          generous help and support of <a href="http://www.numfocus.org/">NumFOCUS</a>
-          and <a href="/sponsors.html">our sponsors</a>.</p>
+          Region</a>, with the generous help and support of <a
+            href="/sponsors.html">our
+          sponsors</a>.
+        </p>
       </div>
     </div>
 
-    <div class="row">
-      <div class="col-md-offset-1 col-md-10" style="text-align: center;">
-        <a href="/slides-videos.html"><button class="btn btn-primary register-large" type="button">Slides, Videos &amp; Photos
-        </button></a>
+    {% include "partials/cta.html" %}
 
-        <span style="padding: 1em;"></span>
-
-        <a href="/talks.html"><button class="btn btn-primary view-schedule-large" type="button">
-            Program and Speakers
-          </button></a>
-      </div>
-    </div>
   </div>
 </div>
 
 <div class="banner-keynotes">
   <div class="shout">
     <a href="/schedule.html">
-      <em>One</em> day, <em>two</em> tracks
+      <em>Two</em> days, <em>four</em> tracks
       <br>
-      <span class="louder"><em>Two</em> exciting keynotes</span>
+      <span class="louder"><em>N</em> exciting keynotes (TBA)</span>
     </a>
   </div>
 
-  <div class="container">
-    <div class="row">
-      <div class="col-md-1"></div>
-      {% for speaker in page.metadata.keynote_speakers %}
-      <div class="col-md-5">
-        <a href="/schedule.html#{{ speaker.id }}">
-          <img class="speaker-image"
-              src="/static/images/speakers/{{ speaker.id }}.jpg">
+  <!--<div class="container">-->
+  <!--<div class="row">-->
+  <!--<div class="col-md-1"></div>-->
+  <!--{% for speaker in page.metadata.keynote_speakers %}-->
+  <!--<div class="col-md-5">-->
+  <!--<a href="/schedule.html#{{ speaker.id }}">-->
+  <!--<img class="speaker-image"-->
+  <!--src="/static/images/speakers/{{ speaker.id }}.jpg">-->
 
-          <div class="speaker-name">{{speaker.name}}</div>
-          <div class="speaker-affiliation">{{ speaker.affiliation }}</div>
-          <div class="speake-bio">{{ speaker.bio }}</div>
-        </a>
-      </div>
-      {% endfor %}
-    </div>
-  </div>
+  <!--<div class="speaker-name">{{speaker.name}}</div>-->
+  <!--<div class="speaker-affiliation">{{ speaker.affiliation }}</div>-->
+  <!--<div class="speake-bio">{{ speaker.bio }}</div>-->
+  <!--</a>-->
+  <!--</div>-->
+  <!--{% endfor %}-->
+  <!--</div>-->
+  <!--</div>-->
 </div>
 
 <div class="main">
   <div class="container">
     <div class="row">
       <div class="col-md-8 col-md-offset-2 col-sm-12">
-        <h1>{{page.metadata.heading}}</h1>
+        <h1>{{page.metadata.heading | safe}}</h1>
 
-        {{page.html}}
+        {{page.html | safe}}
       </div>
     </div>
   </div>
@@ -110,9 +104,9 @@
     <div id="content-area">
       <div class="span12">
         {% for post in posts %}
-        <h1>{{page.metadata.heading}}</h1>
+        <h1>{{page.metadata.heading | safe}}</h1>
 
-        {{page.html}}
+        {{page.html | safe}}
         {% endfor %}
       </div>
     </div>

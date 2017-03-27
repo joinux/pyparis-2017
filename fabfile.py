@@ -9,39 +9,20 @@ env.hosts = ['dedibox.abilian.com']
 
 VH_PYDATA = """
 server {
-  server_name pydata.fr www.pydata.fr;
-
-  access_log /var/log/nginx/pydata2016-access.log;
-
-  rewrite ^/ http://pydata.org/paris2016/ permanent;
-}
-
-server {
-  server_name pydataparis.joinux.org pydata.joinux.org;
-
-  access_log /var/log/nginx/pydata2016-access.log;
-
-  rewrite ^/$ http://pydata.org/paris2016/ permanent;
-  rewrite ^/(.*) http://2015.pydata.fr/$1 permanent;
-}
-
-server {
-  server_name 2015.pydata.fr;
-
-  root /var/www/pydata2015;
+  server_name pyparis.org www.pyparis.org;
+  root /var/www/pyparis2017;
   index index.html;
-
-  access_log /var/log/nginx/pydata2015-access.log;
+  access_log /var/log/nginx/pyparis-access.log;
 }
 """
 
 
 @task
 def setup_nginx():
-  require.nginx.site("pydata.fr", VH_PYDATA)
+  require.nginx.site("pyparis.org", VH_PYDATA)
 
 
 @task
 def deploy():
-  require.directory("/var/www/pydata")
-  local("rsync -e ssh -avz build/ root@dedibox.abilian.com:/var/www/pydata2015")
+  require.directory("/var/www/pyparis2017")
+  local("rsync -e ssh -avz build/ root@dedibox.abilian.com:/var/www/pyparis2017")

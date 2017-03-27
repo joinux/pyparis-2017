@@ -1,6 +1,13 @@
-@blue: #459DB9;
+// @blue: #459DB9;
 @orange: #ee9041;
 @grey: #505b61;
+
+@blue: rgb(36, 58, 130);
+@red: rgb(221, 10, 75);
+@light-red: lighten(@red, 20%);
+// @very-light-blue: lighten(@blue, 80%);
+@very-light-blue: #b9c5ec;
+
 
 body {
   font-family: "Source Sans Pro", sans-serif;
@@ -8,7 +15,7 @@ body {
 
   h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
-    color: @orange;
+    color: @red;
   }
 
   h1 {
@@ -40,7 +47,7 @@ body {
     margin-top: 0.4em;
     margin-bottom: 0.4em;
     font-size: 1.8em;
-    background-color: @orange;
+    background-color: @red;
   }
 
   .btn.view-schedule-large {
@@ -72,7 +79,7 @@ body {
   }
 
   em {
-    color: orange;
+    color: @light-red;
   }
 
   a {
@@ -104,7 +111,7 @@ header {
 }
 
 .navbg2 {
-  background-color: @grey;
+  background-color: @blue;
   text-align: center;
 
   .container-fluid {
@@ -164,7 +171,7 @@ header {
 }
 
 .banner-date-location {
-  background-color: @orange;
+  background-color: @light-red;
   font-size: 1.2em;
   font-weight: 300;
   line-height: 1.4em;
@@ -269,4 +276,16 @@ header {
     padding: 5px;
   }
 
+}
+
+
+p a {
+    border-bottom: 3px solid @very-light-blue;
+    box-shadow: inset 0 -4px 0 @very-light-blue;
+    color: inherit;
+    transition: background .15s cubic-bezier(.33,.66,.66,1);
+}
+
+p a:hover, p a:focus, p a:active {
+    background: @very-light-blue;
 }

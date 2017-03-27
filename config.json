@@ -1,9 +1,9 @@
 {
   "locals": {
-    "url": "http://pydataparis.joinux.org/",
-    "name": "PyData Paris 2015",
+    "url": "http://pyparis.org/",
+    "name": "PyParis 2017",
     "owner": "Stefane Fermigier",
-    "description": "PyData Paris Conference",
+    "description": "PyParis Conference",
     "articles": "posts"
   },
   "plugins": [
