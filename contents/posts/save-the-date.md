@@ -1,6 +1,6 @@
 ---
 title: Save the Date for PyParis 2017!
-date: 2015-02-27
+date: 2017-02-27
 ---
 
 We're opening this placeholder website to inform the world that

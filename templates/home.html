@@ -62,29 +62,49 @@
 <div class="banner-keynotes">
   <div class="shout">
     <a href="/schedule.html">
-      <em>Two</em> days, <em>four</em> tracks, <em>~50 talks</em>
+      <em>Two</em> days, <em>four</em> tracks, <em>~50</em> talks
       <br>
-      <span class="louder"><em>4</em> exciting keynotes (TBA)</span>
+      <span class="louder"><em>4</em> exciting keynotes</span>
     </a>
   </div>
 
-  <!--<div class="container">-->
-  <!--<div class="row">-->
-  <!--<div class="col-md-1"></div>-->
-  <!--{% for speaker in page.metadata.keynote_speakers %}-->
-  <!--<div class="col-md-5">-->
-  <!--<a href="/schedule.html#{{ speaker.id }}">-->
-  <!--<img class="speaker-image"-->
-  <!--src="/static/images/speakers/{{ speaker.id }}.jpg">-->
+  <div class="container">
+    <div class="row">
+      {% for speaker in page.metadata.keynote_speakers.slice(0, 2) %}
+      <div class="col-md-1"></div>
+      <div class="col-md-4" style="height: 400px;">
+        <a href="/schedule.html#{{ speaker.id }}">
+          <img class="speaker-image"
+               src="/static/images/speakers/{{ speaker.id }}.jpg">
 
-  <!--<div class="speaker-name">{{speaker.name}}</div>-->
-  <!--<div class="speaker-affiliation">{{ speaker.affiliation }}</div>-->
-  <!--<div class="speake-bio">{{ speaker.bio }}</div>-->
-  <!--</a>-->
-  <!--</div>-->
-  <!--{% endfor %}-->
-  <!--</div>-->
-  <!--</div>-->
+          <div class="speaker-name">{{speaker.name}}</div>
+          <div class="speaker-affiliation">{{ speaker.affiliation }}</div>
+          <div class="speake-bio">{{ speaker.bio }}</div>
+        </a>
+      </div>
+      <div class="col-md-1"></div>
+      {% endfor %}
+    </div>
+
+    <div class="row">
+      {% for speaker in page.metadata.keynote_speakers.slice(2, 4) %}
+      <div class="col-md-1"></div>
+      <div class="col-md-4" style="height: 400px;">
+        <a href="/schedule.html#{{ speaker.id }}">
+          <img class="speaker-image"
+               src="/static/images/speakers/{{ speaker.id }}.jpg">
+
+          <div class="speaker-name">{{speaker.name}}</div>
+          <div class="speaker-affiliation">{{ speaker.affiliation }}</div>
+          <div class="speake-bio">{{ speaker.bio }}</div>
+        </a>
+      </div>
+      <div class="col-md-1"></div>
+      {% endfor %}
+    </div>
+
+  </div>
+
 </div>
 
 <div class="main">

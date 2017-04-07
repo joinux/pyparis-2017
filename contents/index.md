@@ -3,14 +3,22 @@ title: PyParis 2017
 author: sfermigier
 template: home.html
 keynote_speakers:
-  - name: Gael Varoquaux
-    id: varoquaux
-    affiliation: INRIA
-    bio: Core contributor to scikit-learn and other open source PyData projects
-  - name: Francesc Alted
-    id: alted
-    affiliation: UberResearch GmbH
-    bio: Creator of the PyTables, numexpr, Blosc and lately bcolz open source projects
+  - name: Andreas Müller
+    id: amueller
+    affiliation: Columbia University
+    bio: scikit-learn core developer / author of the O'Reilly book "Introduction to machine learning with Python".
+  - name: Nicholas Tollervey
+    id: ntoll
+    affiliation: Tollervey Ltd.
+    bio: software engineer, classically trained musician, philosophy graduate, teacher and writer.
+  - name: Sylvain Corlay
+    id: scorlay
+    affiliation: Quantstack
+    bio: Applied mathematician, open-source developer (contributor to Jupyter)
+  - name: "??? ???"
+    id: tba
+    affiliation: TBA
+    bio: Lorem ipsum TBA
 ---
 
 ## Attending PyParis 2017

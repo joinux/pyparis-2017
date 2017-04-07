@@ -8,6 +8,16 @@ template: text.html
 
 PyParis would not be possible without the help of our generous sponsors.
 
+Note: if you'd like to become a sponsor, please check this [presentation](/static/pdf/Sponsoring_PyParis.pdf).
+
+## Silver Sponsors
+
+### [Université de Technologie de Troyes (UTT)](http://www.utt.fr/en/index.html)
+
+UTT's core missions are to conduct research, deliver education & training and facilitate technology transfer. UTT is a French institution of higher education established in 1994. It is today one of the largest engineering schools in France. Over 2,500 students are registered at the University, enrolled on undergraduate, postgraduate and doctoral study programs. In the  renowned yearly ranking of the French magazine “L’Etudiant”, UTT takes in 2011 an enviable 6th position among 65 French engineering schools.
+
+## Bronze
+
 
 ## Organiser
 
