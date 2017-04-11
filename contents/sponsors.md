@@ -43,6 +43,10 @@ Abilian is an innovative open source software vendor in the emerging collaborati
 
 The French-speaking Python Users Association.
 
+### [EPI](https://www.epi.asso.fr/)
+
+ L'association Enseignement Public et Informatique, association pionnière fondée en 1971, continue de militer pour l'évolution du service public d'enseignement et de formation à la promotion duquel elle reste attachée. Conformément à ses statuts, elle veut faire de l'informatique, et des technologies de l'information et de la communication en général, un facteur de progrès et un instrument de démocratisation. Depuis sa création, elle demande que priorité absolue soit accordée à la formation des maîtres, inséparable des indispensables recherches pédagogiques et des moyens en matériels et en logiciels. Il reste encore beaucoup à faire dans ces différents domaines.
+
 ### [ESILV](http://www.esilv.fr/en/)
 
 ESILV, Leonard de Vinci graduate school of engineering is a general engineering school at the heart of digital technologies. The educational project of ESILV revolves around science and digital technology combined with 4 major specializations: IT, digital and mechanical modeling, quantitative finance and new energy. ESILV is a member of the CGE, the UGEI, the CDEFI and Campus France.
@@ -63,7 +67,11 @@ The mission of NumFOCUS is to promote sustainable high-level programming languag
 
 PyData brings together both users and developers of data analysis tools to share ideas and learn from each other. The goals are to provide data science enthusiasts, across various domains, a place to discuss how best to apply languages and tools to the challenges of data management, processing, analytics, and visualization.
 
+### [SIF](http://www.societe-informatique-de-france.fr/)
 
+La Société informatique de France – la SIF – est un espace de réflexion, de concertation sur les enjeux de l’informatique, et un espace d’action, d’amplification des actions basées sur le travail de la communauté.
+
+La SIF vise à rassembler toutes celles et ceux pour qui faire progresser l’informatique est un métier ou une passion : enseignants, chercheurs, ingénieurs, industriels, consultants, le terme « informatique » s’entendant ici au sens large des sciences et technologies au coeur du numérique.
 
 <!--
 ## Corporate Sponsors

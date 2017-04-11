@@ -91,6 +91,8 @@ Some subject ideas (nonexhaustive):
 * Python in the classroom - best practices and experience reports
 * Teaching programming to kids using Python
 * MOOC and online learning
+* Connecting Scratch, Blockly, etc. with Python
+* Python tools for online data challenges, programming competitions, etc.
 * …
 
 ## How to submit
