@@ -35,7 +35,7 @@ business users in Paris, covering a large range of Python-related topics:
   how it's evolving and how to best leverage new features in the language
 - **Python in education**: experience reports from and outside the french education system
 
-See [the schedule](/shedule.html) for more information about the program.
+See [the schedule](/schedule.html) for more information about the program.
 
 ### Why attend?
 
