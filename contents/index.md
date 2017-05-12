@@ -15,10 +15,10 @@ keynote_speakers:
     id: scorlay
     affiliation: Quantstack
     bio: Applied mathematician, open-source developer (contributor to Jupyter)
-  - name: "??? ???"
-    id: tba
-    affiliation: TBA
-    bio: Lorem ipsum TBA
+  - name: "Ludovic Gasc"
+    id: lgasc
+    affiliation: Eyepea/ALLOcloud
+    bio: Senior software developer and engineer
 ---
 
 ## Attending PyParis 2017
@@ -35,7 +35,7 @@ business users in Paris, covering a large range of Python-related topics:
   how it's evolving and how to best leverage new features in the language
 - **Python in education**: experience reports from and outside the french education system
 
-See [the CFP](/cfp.html) for more information about the program.
+See [the schedule](/shedule.html) for more information about the program.
 
 ### Why attend?
 
@@ -55,7 +55,7 @@ By attending PyParis 2017, you will:
 We will have a dense program with **four keynotes** and **around 50 talks and roundtables** in
 **four parallel tracks**.
 
-See [the CFP](/cfp.html) for more information.
+See [the talks](/talks.html) and [the schedule](/schedule.html) for more information.
 
 ### Associated event(s)
 

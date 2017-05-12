@@ -15,4 +15,32 @@ ul li ul {
 
 The conference will take place on June 12-13, 2017.
 
-The program will be announced after the end of the CFP.
+## Day 1 (June 12th)
+
+* Opening remarks 
+
+* Keynotes
+
+* Track Data 1 - "Integrating and shaping data"
+
+* Track Data 2 - "learning, deep and wide"
+
+* Track Core
+
+* Track Web / Cloud
+
+## Day 2 (June 13th)
+
+* Keynotes
+
+* Track Education
+
+* Scikit-Learn Day
+
+* Track Core & Cloud
+
+* Tutorials
+
+* Lightning talks
+
+* Concluding remarks

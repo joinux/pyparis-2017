@@ -12,15 +12,33 @@ Note: if you'd like to become a sponsor, please check this [presentation](/stati
 
 ## Silver Sponsors
 
+### [Abilian](http://www.abilian.com/)
+
+Abilian is an innovative open source software vendor in the emerging collaboration and business-oriented social networking market.
+
+### [Jetbrains](http://www.jetbrains.com)
+
+At JetBrains, code is our passion. For over 15 years we have strived to make the strongest, most effective developer tools on earth. By automating routine checks and corrections, our tools speed up production, freeing developers to grow, discover and create.
+
+### [Logilab](http://www.logilab.fr/)
+
+Logilab développe des logiciels, et propose du conseil et des formations de haut niveau dans les domaines de l'informatique scientifique et du web sémantique, en utilisant des outils et méthodes agiles.
+
+### [Microsoft](http://www.microsoft.com/)
+
+Microsoft is an American multinational technology company headquartered in Redmond, Washington, that develops, manufactures, licenses, supports and sells computer software, consumer electronics and personal computers and services. Its best known software products are the Microsoft Windows line of operating systems, Microsoft Office office suite, and Internet Explorer and Edge web browsers.
+
 ### [Mozilla](https://www.mozilla.org/)
 
 At Mozilla, we’re a global community of technologists, thinkers and builders working together to keep the Internet alive and accessible, so people worldwide can be informed contributors and creators of the Web. We believe this act of human collaboration across an open platform is essential to individual growth and our collective future.
 
+### [Nexedi](http://www.nexedi.com/)
+
+Nexedi is Europe's largest open-source software (OSS) publisher and creator of ERP5. At Nexedi, we design, develop and deploy enterprise solutions ranging from ERP to pure Decentralized Cloud and Industrial Big Data.
+
 ### [Université de Technologie de Troyes (UTT)](http://www.utt.fr/en/index.html)
 
 UTT's core missions are to conduct research, deliver education & training and facilitate technology transfer. UTT is a French institution of higher education established in 1994. It is today one of the largest engineering schools in France. Over 2,500 students are registered at the University, enrolled on undergraduate, postgraduate and doctoral study programs. In the  renowned yearly ranking of the French magazine “L’Etudiant”, UTT takes in 2011 an enviable 6th position among 65 French engineering schools.
-
-## Bronze
 
 
 ## Organiser
@@ -37,8 +55,6 @@ Since 2005, Systematic has developed 258 R&D projects representing a total R&D i
 ## Co-organiser
 
 ### [Abilian](http://www.abilian.com/)
-
-Abilian is an innovative open source software vendor in the emerging collaboration and business-oriented social networking market.
 
 
 ## Other Supporting Organisations
