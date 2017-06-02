@@ -59,7 +59,7 @@ See [the talks](/talks.html) and [the schedule](/schedule.html) for more informa
 
 ### Associated event(s)
 
-There is going to be a **Scikit-Learn development sprint**. This sprint
+There is going to be a [**Scikit-Learn development sprint**](https://github.com/scikit-learn/scikit-learn/wiki/Upcoming-events) from June 6 to June 10. This sprint
 is organised by the Scikit-Learn core
 development team and has a limited number of seats available. Please get in
 touch with them (via their mailing list) if you are interested in joining the
