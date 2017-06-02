@@ -1,6 +1,7 @@
 .PHONY: serve build
 
 build:
+	./pyparis-to-talks.py
 	./node_modules/.bin/wintersmith build
 
 serve:

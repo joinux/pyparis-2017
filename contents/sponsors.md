@@ -16,17 +16,29 @@ Note: if you'd like to become a sponsor, please check this [presentation](/stati
 
 Abilian is an innovative open source software vendor in the emerging collaboration and business-oriented social networking market.
 
+### [Algoo](https://www.algoo.fr)
+
+Nous sommes une petite équipe de geeks qui s'est mise au vert pour mieux s'adonner à sa passion du code.
+Basés à Grenoble, nous vous proposons de vous accompagner dans vos projets logiciels d'applications
+web, applications métier, internet des objets. Nous pouvons intervenir sur toutes tâches techniques :
+de la conception et du développement jusqu'à l'administration système en passant par l'architecture,
+l'industrialisation du développement, les problématiques devops.
+
+Nous sommes sérieux et professionnels et collaborons avec le sourire.
+La contribution régulière à des projets libres n'y est probablement pas étrangère.
+
+
 ### [Jetbrains](http://www.jetbrains.com)
 
-At JetBrains, code is our passion. For over 15 years we have strived to make the strongest, most effective developer tools on earth. By automating routine checks and corrections, our tools speed up production, freeing developers to grow, discover and create.
+JetBrains delivers intelligent software solutions that make developers more productive by simplifying their challenging tasks, automating the routine, and helping them adopt the best development practices. PyCharm is the Python IDE for Professional Developers by JetBrains providing a complete set of tools for productive Python, Web and scientific development, available in three editions. The free and open-source PyCharm Community Edition is perfect for pure Python coding. PyCharm Professional Edition is designed for professional Python and Web developers.
 
 ### [Logilab](http://www.logilab.fr/)
 
 Logilab développe des logiciels, et propose du conseil et des formations de haut niveau dans les domaines de l'informatique scientifique et du web sémantique, en utilisant des outils et méthodes agiles.
 
-### [Microsoft](http://www.microsoft.com/)
+### [Microsoft](https://aka.ms/atpariscontainerday)
 
-Microsoft is an American multinational technology company headquartered in Redmond, Washington, that develops, manufactures, licenses, supports and sells computer software, consumer electronics and personal computers and services. Its best known software products are the Microsoft Windows line of operating systems, Microsoft Office office suite, and Internet Explorer and Edge web browsers.
+The enterprise-grade infrastructure of Microsoft Azure, Visual Studio Team Services provides a set of collaboration tools that work with your existing IDE or editor, making it perfect for scripting languages like Python. Microsoft tools also provide deep insight into your data. Backed by Anaconda Python distribution, users can introduce their own scripts into an Azure Machine Learning workflow. Azure Machine Learning Studio comes equipped with close to 200 of the most common Python packages including those for data science like Pandas, NumPy, and SciPy. 
 
 ### [Mozilla](https://www.mozilla.org/)
 
@@ -35,6 +47,10 @@ At Mozilla, we’re a global community of technologists, thinkers and builders w
 ### [Nexedi](http://www.nexedi.com/)
 
 Nexedi is Europe's largest open-source software (OSS) publisher and creator of ERP5. At Nexedi, we design, develop and deploy enterprise solutions ranging from ERP to pure Decentralized Cloud and Industrial Big Data.
+
+### [Sqreen](http://www.sqreen.io/)
+
+Sqreen brings security for your webapp and API backend. Block attacks in real time, and detect suspicious or fraudulent users. Get the full context of each attack, stacktraces of vulnerable code, and analyses of patterns of malicious behavior. Sqreen installs easily as a standard dependency, and requires no configuration or maintenance.
 
 ### [Université de Technologie de Troyes (UTT)](http://www.utt.fr/en/index.html)
 

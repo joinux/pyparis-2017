@@ -21,25 +21,25 @@ The conference will take place on June 12-13, 2017.
 
 * Keynotes
 
-* Track Data 1 - "Integrating and shaping data"
+* [Track Data 1 - "Integrating and shaping data"](/talks.html#data1)
 
-* Track Data 2 - "learning, deep and wide"
+* [Track Data 2 - "learning, deep and wide"](/talks.html#data2)
 
-* Track Core
+* [Track Core](/talks.html#core)
 
-* Track Web / Cloud
+* [Track Web / Cloud](/talks.html#web)
 
 ## Day 2 (June 13th)
 
 * Keynotes
 
-* Track Education
+* [Track Education](/talks.html#education)
 
-* Scikit-Learn Day
+* [Scikit-Learn Day](/talks.html#scikit-learn)
 
-* Track Core & Cloud
+* [Track Core & Cloud](/talks.html#core)
 
-* Tutorials
+* [Tutorials / workshops](/talks.html#workshop)
 
 * Lightning talks
 
