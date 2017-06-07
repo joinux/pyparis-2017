@@ -13,9 +13,10 @@ ul li ul {
 
 # Schedule
 
-The conference will take place on June 12-13, 2017.
+The conference will take place on June 12-13, 2017, from 9:00 (gates will open at 8:30, please be on time!) to 18:00 (or later, for social activities).
 
 ## Day 1 (June 12th)
+
 
 * Opening remarks 
 

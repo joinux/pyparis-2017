@@ -23,6 +23,7 @@ See also the [Detailed Schedule](/schedule.html).
 - <a href='#cf2d5a414279e3a8499e9e575759958b'>Unicode and bytes demystified</a> (Boris FELD)
 - <a href='#b87395769fe7fece9c8acd8528bc631a'>Performant Python</a> (Burkhard Kloss)
 - <a href='#8187deb638e5ca15ab309db084fb3ada'>Writing a C Python extension in 2017</a> (Jean-Baptiste Aviat)
+- <a href='#21f12f0d2b51ed5efa65be57aad231cc'>Improving python memory management in a multi-process environment with wendelin.core</a> (Jean-Paul Smets)
 - <a href='#4893e7ea558d5b5dcad9f142a78f078c'>Call a C API from Python becomes more enjoyable with CFFI</a> (Jean-Sébastien Bevilacqua)
 - <a href='#1ea1a6556089f26e7be531af594031a8'>Mock it right! A beginner’s guide to world of tests and mocks.</a> (Maciej Polańczyk)
 - <a href='#8c9e8b9c4417f00763fddfdd79308ee1'>wolfcrypt: wrapping secrets in Python</a> (Moisés Guimarães de Medeiros)
@@ -86,6 +87,8 @@ See also the [Detailed Schedule](/schedule.html).
 
 - <a href='#e1ba9beef7fbb560f8ef0970259e2cc6'>Camisole : a secure online sandbox to grade students</a> (Antoine Pietri)
 - <a href='#5dd8b9ada2da6f48d6a4a78920d803d2'>Circuit Simulation using Python</a> (Fabrice Salvaire)
+- <a href='#746c46e390d79bb4987d743132d52d53'>Introduce AI to kids? It's possible!</a> (Jill-Jênn Vie)
+- <a href='#5c35fe2e2e149e3fd3ec538e43794837'>Python MOOCs: Lessons Learned</a> (Thierry Parmentelat (INRIA), Olivier Ricou (EPITA) et Jill-Jênn Vie)
 - <a href='#1795ee0c200854c0bb2b8ab08dc3f1ae'>How to make teenage girls love coding using Python and the visual arts-oriented language Processing ?</a> (chticode@univ-lille1.fr)
 
 <a name='workshop'></a>
@@ -490,6 +493,24 @@ Advocating the use of Python both in research and teaching, he has developed sev
 </div>
 
 
+<a name='21f12f0d2b51ed5efa65be57aad231cc'></a>
+## Jean-Paul Smets: Improving python memory management in a multi-process environment with wendelin.core
+
+**Abstract**:
+
+<div class='talk-abstract'>
+This talk explains how to efficiently use memory with mutli-process deployments of cpython on multi-core servers or clusters, thanks to a distributed transactional memory manager: wendelin.core. 
+</div>
+
+**Speaker**: Jean-Paul Smets (Nexedi)
+
+**Speaker bio**:
+
+<div class='talk-bio'>
+Founder of Nexedi and initial author of ERP5, Jean-Paul is currently in charge of Nexedi international development, investment relations and technology partnerships. Jean-Paul graduated from Ecole Normale Supérieure with a PhD in computer science and from Ecole des Mines de Paris with a Master in Public Administration. He gained industrial experience in Apparel Industry, Oil industry, Non Profit Organizations and Lorraine Region Public Administration. He is an active member of Free Software associations and has played in key role in the Eurolinux campaign which succeeded in protecting innovation from software patents.
+</div>
+
+
 <a name='4893e7ea558d5b5dcad9f142a78f078c'></a>
 ## Jean-Sébastien Bevilacqua: Call a C API from Python becomes more enjoyable with CFFI
 
@@ -514,6 +535,24 @@ He worked three years at Thales on OpenStack, where he has discovered Python and
 He likes to talk with developers on IRC or github. Lastly, he is a contributor to libGDX and Vulkan ecosystem. He likes 3D and low-level development.
 
 He likes traveling and his favorite member of One Direction is Liam Payne ;-)
+</div>
+
+
+<a name='746c46e390d79bb4987d743132d52d53'></a>
+## Jill-Jênn Vie: Introduce AI to kids? It's possible!
+
+**Abstract**:
+
+<div class='talk-abstract'>
+Sentence generation, programming bots for simple games, digit classification: we will present 3 years of AI-related projects with kids, what worked and what did not. Can you convey what you're working on to a nice challenge for a kid?
+</div>
+
+**Speaker**: Jill-Jênn Vie (RIKEN)
+
+**Speaker bio**:
+
+<div class='talk-bio'>
+Jill-Jênn Vie has learned programming through contests, then programmed contests for learning. (But now he contests that he actually learned programming…) He lives in Tokyo and does ML research on educational data. [Know more!](https://jilljenn.github.io)
 </div>
 
 
@@ -974,6 +1013,24 @@ MRQ is a gevent-based task queue, built with performance and developer productiv
 
 <div class='talk-bio'>
 Sylvain Zimmer is a software developer and longtime free culture advocate. In 2004 he founded Jamendo, the largest Creative Commons music community online. Since 2012, he has been the CTO of Pricing Assistant, a startup specialized in large-scale crawling of E-commerce websites. He is also the founder and main curator of dotConferences, a series of TED-like developer events in Paris, as well as Paris.py, the Python meetup in Paris.
+</div>
+
+
+<a name='5c35fe2e2e149e3fd3ec538e43794837'></a>
+## Thierry Parmentelat (INRIA), Olivier Ricou (EPITA) et Jill-Jênn Vie: Python MOOCs: Lessons Learned
+
+**Abstract**:
+
+<div class='talk-abstract'>
+Retour d'expérience sur les MOOC Python d'Inria et d'EPITA, deux approches complémentaires pour enseigner le langage à grande échelle. Table ronde animée par Jill-Jênn Vie.
+</div>
+
+**Speaker**: Thierry Parmentelat (INRIA), Olivier Ricou (EPITA) et Jill-Jênn Vie (RIKEN)
+
+**Speaker bio**:
+
+<div class='talk-bio'>
+Thierry Parmentelat est ingénieur de recherche à Inria Sophia-Antipolis et utilise Python depuis plus de 10 ans pour ses travaux de recherche ainsi que pour le développement des plateformes expérimentales dont il a la charge. Il est l'auteur avec Arnaud Legout du [MOOC Python : des fondamentaux jusqu'à l'utilisation du langage](https://www.fun-mooc.fr/courses/inria/41001S03/session03/about) sur la plateforme edX France université numérique. Olivier Ricou est directeur de la recherche à EPITA et y enseigne l'analyse numérique, le calcul parallèle et la géopolitique de l'Internet. Il est auteur du [MOOC Python pour les scientifiques](https://mooc-francophone.com/cours/mooc-python-pour-les-scientifiques/) sur la plateforme edX IonisX.
 </div>
 
 
