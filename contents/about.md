@@ -54,8 +54,8 @@ organisations that previously gave you:
 - [Stefane Fermigier](http://www.fermigier.com/)
 - [Amandine Nayrolles](https://www.linkedin.com/in/nayrollesa/)
 - [Jean-Paul Smets](http://10ans.dysruptiv.org/p/jean-paul-smets-ceo-nexedi.html)
-- [Gael Varoquaux](http://gael-varoquaux.info/)
-- [Jill Jênn Vie](http://jill-jenn.net/)
+- [Gaël Varoquaux](http://gael-varoquaux.info/)
+- [Jill-Jênn Vie](http://jill-jenn.net/)
 - [Tarek Ziadé](http://www.ziade.org/)
 
 

@@ -36,7 +36,7 @@ The conference will take place on June 12-13, 2017, from 9:00 (gates will open a
 
 * Keynote (Nick)
 
-* [Track Education](/talks.html#education)
+* [Track Education](/education.html)
 
 * [Scikit-Learn Day](/talks.html#scikit-learn)
 
