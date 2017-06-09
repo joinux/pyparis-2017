@@ -15,12 +15,14 @@ ul li ul {
 
 The conference will take place on June 12-13, 2017, from 9:00 (gates will open at 8:30, please be on time!) to 18:00 (or later, for social activities).
 
-## Day 1 (June 12th)
+[Detailed Schedule (PDF)](/static/pdf/detailed_schedule.pdf)
 
+
+## Day 1 (June 12th)
 
 * Opening remarks 
 
-* Keynotes
+* Keynotes (Sylvain & Ludo)
 
 * [Track Data 1 - "Integrating and shaping data"](/talks.html#data1)
 
@@ -32,7 +34,7 @@ The conference will take place on June 12-13, 2017, from 9:00 (gates will open a
 
 ## Day 2 (June 13th)
 
-* Keynotes
+* Keynote (Nick)
 
 * [Track Education](/talks.html#education)
 
@@ -43,5 +45,7 @@ The conference will take place on June 12-13, 2017, from 9:00 (gates will open a
 * [Tutorials / workshops](/talks.html#workshop)
 
 * Lightning talks
+
+* Keynote (Andreas)
 
 * Concluding remarks
