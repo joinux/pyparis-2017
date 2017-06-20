@@ -17,7 +17,7 @@ par [Nicholas Tollervey](http://ntoll.org) (auteur du PDF gratuit [*Python in Ed
 <tr><td>9&nbsp;h&nbsp;50</td><td>***How to make teenage girls love coding using Python and the visual arts-oriented language Processing?***<br />
 par [Ch'ti Code](https://wikis.univ-lille1.fr/chticode/) (Université de Lille)</td></tr>
 
-<tr><td>10&nbsp;h&nbsp;35</td><td>***Camisole: a secure online sandbox to grade students***<br />
+<tr><td>10&nbsp;h&nbsp;35</td><td>[***Camisole: a secure online sandbox to grade students***](http://koin.fr/upload/Camisole.pdf)<br />
 par [Antoine Pietri](http://koin.fr) ([Prologin](https://prologin.org), Inria)</td></tr>
 
 <tr><td>11&nbsp;h&nbsp;00</td><td>**Table ronde MOOC Python** : retours d'expérience<br />
@@ -28,7 +28,7 @@ par [Thierry Parmentelat](http://planete.inria.fr/Thierry.Parmentelat/) (Inria) 
 <tr><td>14&nbsp;h&nbsp;00</td><td>**Tutorial [micro:bit](http://microbit.org/fr/)**<br />
 Un ordinateur ARM conçu par la BBC offert à 1M d'Anglais de 11–12 ans</td></tr>
 
-<tr><td>15&nbsp;h&nbsp;30</td><td>***Introduce AI to kids? It’s possible!***<br />
+<tr><td>15&nbsp;h&nbsp;30</td><td>[***Introduce AI to kids? It’s possible!***](http://jill-jenn.net/conferences/ai4kids.pdf)<br />
 par [Jill-Jênn Vie](http://jill-jenn.net) (RIKEN)</td></tr>
 
 <tr><td>15&nbsp;h&nbsp;50</td><td>***Circuit Simulation using Python***<br />
@@ -46,3 +46,7 @@ par [Fabrice Salvaire](https://www.fabrice-salvaire.fr/fr/)</td></tr>
 </table>
 
 Retrouvez les slides des intervenants sur cette page après la conférence.
+
+## Autres informations
+
+- [Nouvelles d'ISN, d'ICN et du CAPES de mathématiques option informatique](http://www.societe-informatique-de-france.fr/2017/04/enseignement-informatique-cheno/) par Laurent Chéno, inspecteur général de mathématiques en charge de l'informatique
