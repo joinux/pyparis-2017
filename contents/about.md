@@ -52,6 +52,7 @@ organisations that previously gave you:
 ## Program Commitee
 
 - [Stefane Fermigier](http://www.fermigier.com/)
+- [Alexandre Gramfort](http://alexandre.gramfort.net/)
 - [Amandine Nayrolles](https://www.linkedin.com/in/nayrollesa/)
 - [Jean-Paul Smets](http://10ans.dysruptiv.org/p/jean-paul-smets-ceo-nexedi.html)
 - [Gaël Varoquaux](http://gael-varoquaux.info/)

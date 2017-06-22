@@ -30,5 +30,5 @@ See also the [Detailed Schedule](/schedule.html) and [detailed description for e
 - Ludovic Gasc, “AsyncIO and aiohttp workshop”
 - Joris Van den Bossche, “Data analysis with Pandas”
 - Bhargav Srinivasa Desikan, “Topic Modelling (and a lot more) with NLP framework Gensim”
-- Nick Tollervey, "BBC:bit workshop"
+- Nick Tollervey, "micro:bit workshop"
 

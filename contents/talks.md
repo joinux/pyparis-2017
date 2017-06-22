@@ -77,6 +77,7 @@ See also the [Detailed Schedule](/schedule.html).
 
 - <a href='#931e4ce4c8766e7800525aa62ea9a910'>Cloud computing made easy in Joblib</a> (Alexandre Abadie)
 - <a href='#39d62c68337f89d3c879fff02b88e23b'>Machine Learning for Computer Security Experts using Python & scikit-learn</a> (Anaël Bonneton)
+- <a href='#9d0689983d026a1c27b47d60aa4689e4'>Scikit-learn: an incomplete yearly review</a> (Gael Varoquaux)
 - <a href='#83755171d0b3108763d3fd82e0751223'>How to prepare your text data for NLP applications</a> (Loryfel Nunez)
 - <a href='#6629bc50a989d669b4b056d77b55c978'>Building and deploying a predictive API using scikit-learn, Flask and Docker.</a> (Nawfal Tachfine)
 - <a href='#b88a0be89975626c902bb52193716b4a'>Machine Learning to moderate ads in real world classified's business</a> (Vaibhav Singh)
@@ -376,6 +377,24 @@ PhD in statistical/theoretical physics.
 </div>
 
 
+<a name='9d0689983d026a1c27b47d60aa4689e4'></a>
+## Gael Varoquaux: Scikit-learn: an incomplete yearly review
+
+**Abstract**:
+
+<div class='talk-abstract'>
+I will give an update on the scikit-learn project: new and ongoing features, code improvements, and ecosystem.
+</div>
+
+**Speaker**: Gael Varoquaux (Inria)
+
+**Speaker bio**:
+
+<div class='talk-bio'>
+
+</div>
+
+
 <a name='f68abc5756e9fe86115861f97808f96f'></a>
 ## Gaël Le Mignot: Ways to generate PDF from Python Web applications
 
@@ -607,6 +626,8 @@ Sports: Basketball, Football (U.S.), Badminton
 
 <div class='talk-abstract'>
 In this hands-on tutorial on using pandas for data analysis, you will be guided through some of the powerful methods and concepts in pandas, including time series manipulation (resampling and rolling operations), groupby operations, reshaping with stack/unstack/pivot, …
+<br>
+This tutorial will go deeper in a selection of concepts and it assumes already basic familiarity with pandas (or e.g. having followed the beginners tutorial in the morning).
 </div>
 
 **Speaker**: Joris Van den Bossche (Université Paris-Saclay Center for Data Science, INRIA)

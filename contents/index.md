@@ -67,11 +67,8 @@ sprint.
 
 ### Venue and tickets
 
-PyParis 2017 takes place in Paris la Défense at Pole Universitaire
-Léonard de Vinci (PULV), a venue with enough capacity for **400 attendees**.
-
-Price for tickets will be **120 Euros**, with **discounts** for early birds,
-students, academics and bootstrapped startups.
+PyParis 2017 takes place in Paris la Défense at
+[Pole Universitaire Léonard de Vinci (PULV)](/venue.html).
 
 Our event is non-profit. All proceeds from the ticket sales will be used
 to make the best event possible for the benefit of the Python community.
