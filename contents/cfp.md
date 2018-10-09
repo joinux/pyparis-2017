@@ -16,12 +16,8 @@ blockquote p {
 
 <div class="alert alert-info">
 <p>
-We’ve reopened the CFP for 6 more days.
+The CFP will open soon.
 <p>
-
-<p>
-We’re specially looking for more proposals in the **Education**, **Core Python** and **Web / Cloud / Apps tracks**.
-</p>
 </div>
 
 The event brings together developers, engineers, data analysts, scientists, educators, systems architects and others from the Python community to discuss new techniques and tools that will make their work more enjoyable.
@@ -103,24 +99,25 @@ Some subject ideas (nonexhaustive):
 * Python tools for online data challenges, programming competitions, etc.
 * …
 
+
+<!--
 ## How to submit
 
 Go to [the CFP app](https://www.papercall.io/pyparis2017), register and fill one or several proposals.
 
+-->
 
 ## Key dates
 
-March 1st: [CFP opens](https://www.papercall.io/pyparis2017).
+August 2018: CFP opens.
 
-<del>April 17th: CFP closes.</del>
+End of september 2018: CFP closes.
 
-**April 23rd: CFP closes for real!**
+Mid-october: speakers are notified.
 
-End of April: speakers are notified.
+November 14th: conference day 1.
 
-June 12th: conference day 1 - talks and roundtables.
-
-June 13th: conference day 2 - talks, tutorials and workshops.
+June 15th: conference day 2.
 
 
 ## Additional Information

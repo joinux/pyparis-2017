@@ -36,7 +36,7 @@ Please contact us (pyparis@joinux.org) if you have questions that are not covere
 
 ### Will all the talks be given in English ?
 
-Yes, with possibly exception for the Educatin track.
+Yes, with possibly exception for the Education track.
 
 ### Will there be food for people with allergies ?
 

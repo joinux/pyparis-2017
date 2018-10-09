@@ -1,20 +1,23 @@
 .PHONY: serve build
 
+HOST=pyparis.org
+
 build:
 	# ./pyparis-to-talks.py
-	./node_modules/.bin/wintersmith build
+	yarn run wintersmith build
 
 serve:
-	./node_modules/.bin/wintersmith preview
+	yarn run wintersmith preview
 
 zip:
 	zip -r contents/static/pdf/all-slides.zip slides
 
 deploy: build
-	fab deploy
+	rsync -e ssh -avz build/ websites@${HOST}:/home/websites/pyparis2018/
 
 clean:
 	rm -rf build
+	find . -name "*.pyc" | xargs rm -f
 
 #serve:
 #	cd src ; python -m SimpleHTTPServer 8000

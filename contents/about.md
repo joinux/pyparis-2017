@@ -30,7 +30,7 @@ triumphs and potential pitfalls of using Python for certain kinds of
 problems.
 
 
-PyParis 2017 is organized by <a href="http://www.systematic-paris-region.org/">Systematic Paris
+PyParis 2018 is organized by <a href="http://www.systematic-paris-region.org/">Systematic Paris
 Region</a>, with the generous help and support of our sponsors.
 
 If you would like to
@@ -41,16 +41,22 @@ volunteer to be a part of the PyParis team, contact us at:
 <a id="history"></a>
 ## History
 
-PyParis 2017 is organized by the same people and supported by the same
+PyParis 2018 is organized by the same people and supported by the same
 organisations that previously gave you:
 
-- April 2015 - PyData Paris 2015 (200 attendees)
-- June 2016 - PyData Paris 2016 (250 attendees)
+- June 2017 - [PyParis 2017](http://2017.pyparis.org/) (~250 attendees)
+- June 2016 - [PyData Paris 2016](https://pydata.org/paris2016/) (250 attendees)
+- April 2015 - [PyData Paris 2015](http://2015.pydata.fr/) (200 attendees)
+
+And who are organizing, among other things, the [PyData Paris Meetup](https://www.meetup.com/PyData-Paris/).
 
 
 <a id="pc"></a>
 ## Program Commitee
 
+(This is last year's program commitee, we'll update the list very soon.)
+
+- [Sylvain Corlay](https://github.com/sylvaincorlay)
 - [Stefane Fermigier](http://www.fermigier.com/)
 - [Alexandre Gramfort](http://alexandre.gramfort.net/)
 - [Amandine Nayrolles](https://www.linkedin.com/in/nayrollesa/)
@@ -91,22 +97,3 @@ The incident may be reported to the Police.
 PyParis welcomes journalists and photographers.
 To apply for a press pass please send all pertinent information to
 pyparis@joinux.org. We will notify approved press by email.
-
-<!--
-### Why Attend?
-
-At PyData Boston 2013, attendees will encounter prominent scientists in the Python data community delivering talks, tutorials, and workshops. These range from corporate CEOs, to authors of open-source data analysis software, to post-doctoral researchers. They will enlighten and inform as they address the large-scale data management challenges affecting all genres of science and industry. This is your opportunity to gain access to an exchange of ideas between users, trying to analyze high-volume databases; and developers, providing them with accessible solutions. Gain insight into the newest products and the latest research confronting big-data.
-
-### Who is eligible for a complimentary pass?
-
-Journalists for legitimate business, science and technology media; and photographers who personally will write articles about the PyData Conference or photograph the conference for publication in external media. Journalists are free to publicize, Tweet, and otherwise share all information. Quote approval needs to be secured from speakers. Press credentials are non-transferable.
-
-### Not eligible
-
-Corporate communications officers, business developers, non-reporting employees of media organizations, consultants, vendors, etc. should purchase a registration.
-
-### Subject experts
-
-To set up an interview with one of PyData's subject experts or executives or to receive information on any of the topics covered at PyData, contact admin@pydata.org.
-
--->

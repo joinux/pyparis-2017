@@ -13,39 +13,27 @@ ul li ul {
 
 # Schedule
 
-The conference will take place on June 12-13, 2017, from 9:00 (gates will open at 8:30, please be on time!) to 18:00 (or later, for social activities).
-
-[Detailed Schedule (PDF)](/static/pdf/detailed_schedule.pdf)
+The conference will take place on November 14-15, 2018, from 9:00 (gates will open at 8:30, please be on time!) to 18:00 (or later, for social activities).
 
 
-## Day 1 (June 12th)
+## Day 1 (November 14th)
 
 * Opening remarks 
 
-* Keynotes (Sylvain & Ludo)
+* Keynotes
 
-* [Track Data 1 - "Integrating and shaping data"](/talks.html#data1)
+* Parallel tracks: Data, Core, Web, Education
 
-* [Track Data 2 - "learning, deep and wide"](/talks.html#data2)
+* Food and drink reception 
+ 
+## Day 2 (November 15th)
 
-* [Track Core](/talks.html#core)
+* Keynote
 
-* [Track Web / Cloud](/talks.html#web)
+* Keynotes
 
-## Day 2 (June 13th)
-
-* Keynote (Nick)
-
-* [Track Education](/education.html)
-
-* [Scikit-Learn Day](/talks.html#scikit-learn)
-
-* [Track Core & Cloud](/talks.html#core)
-
-* [Tutorials / workshops](/talks.html#workshop)
+* Parallel tracks: Data, Core, Web, Education, tutorials
 
 * Lightning talks
-
-* Keynote (Andreas)
 
 * Concluding remarks

@@ -1,5 +1,5 @@
 ---
-title: PyParis 2017
+title: PyParis 2018
 author: sfermigier
 template: home.html
 keynote_speakers:
@@ -21,11 +21,11 @@ keynote_speakers:
     bio: Senior software developer and engineer
 ---
 
-## Attending PyParis 2017
+## Attending PyParis 2018
 
-### What's PyParis 2017?
+### What's PyParis 2018?
 
-PyParis 2017 will be the first gathering of Python developers and
+PyParis 2018 will be the first gathering of Python developers and
 business users in Paris, covering a large range of Python-related topics:
 
 - **PyData**: data science, machine learning, AI, NoSQL, simulation,
@@ -35,11 +35,11 @@ business users in Paris, covering a large range of Python-related topics:
   how it's evolving and how to best leverage new features in the language
 - **Python in education**: experience reports from and outside the french education system
 
-See [the schedule](/schedule.html) for more information about the program.
+<!-- See [the schedule](/schedule.html) for more information about the program. -->
 
 ### Why attend?
 
-By attending PyParis 2017, you will:
+By attending PyParis 2018, you will:
 
 * **Learn** about the leading Python frameworks, libraries and toolkit,
    directly from their lead developers and from experts.
@@ -57,18 +57,18 @@ We will have a dense program with **four keynotes** and **around 50 talks and ro
 
 See [the talks](/talks.html) and [the schedule](/schedule.html) for more information.
 
-### Associated event(s)
-
-There is going to be a [**Scikit-Learn development sprint**](https://github.com/scikit-learn/scikit-learn/wiki/Upcoming-events) from June 6 to June 10. This sprint
-is organised by the Scikit-Learn core
-development team and has a limited number of seats available. Please get in
-touch with them (via their mailing list) if you are interested in joining the
-sprint.
-
 ### Venue and tickets
 
-PyParis 2017 takes place in Paris la Défense at
-[Pole Universitaire Léonard de Vinci (PULV)](/venue.html).
+PyParis 2018 takes place in Paris at [EPITA](/venue.html).
 
 Our event is non-profit. All proceeds from the ticket sales will be used
 to make the best event possible for the benefit of the Python community.
+
+## Key dates
+
+- 2018/09/15 CFP opens
+- <strike>2018/09/30 CFP closes</strike></li>
+- <b>2018/10/07 real and definitive deadline for the CFP</b>
+- 2018/10/09 Speakers are notified
+- 2018/10/14 End of early birds registration
+- 2018/11/14 PyParis opens
