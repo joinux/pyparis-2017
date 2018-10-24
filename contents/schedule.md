@@ -15,25 +15,27 @@ ul li ul {
 
 The conference will take place on November 14-15, 2018, from 9:00 (gates will open at 8:30, please be on time!) to 18:00 (or later, for social activities).
 
+See also the [talks](/talks.html)
+
 
 ## Day 1 (November 14th)
 
-* Opening remarks 
+* Opening remarks
 
 * Keynotes
 
-* Parallel tracks: Data, Core, Web, Education
+* Parallel tracks: Data, Core + Web, [Education](/education.html)
 
-* Food and drink reception 
- 
+* Food and drink reception
+
+* End at 20pm or later
+
 ## Day 2 (November 15th)
 
-* Keynote
-
-* Keynotes
-
-* Parallel tracks: Data, Core, Web, Education, tutorials
+* Parallel tracks: Data, Core + Web, tutorials
 
 * Lightning talks
 
-* Concluding remarks
+* Concluding Keynote and farewell
+
+* End at 6pm

@@ -10,11 +10,54 @@ PyParis would not be possible without the help of our generous sponsors.
 
 Note: if you'd like to become a sponsor, please check this [presentation](/static/pdf/Sponsoring_PyParis.pdf).
 
+
+## Platinum Sponsor
+
+### [Microsoft](https://microsoft.com/)
+
+The enterprise-grade infrastructure of Microsoft Azure, Visual Studio Team Services provides a set of collaboration tools that work with your existing IDE or editor, making it perfect for scripting languages like Python. Microsoft tools also provide deep insight into your data. Backed by Anaconda Python distribution, users can introduce their own scripts into an Azure Machine Learning workflow. Azure Machine Learning Studio comes equipped with close to 200 of the most common Python packages including those for data science like Pandas, NumPy, and SciPy.
+
+
+## Gold sponsors
+
+### [Wifirst](http://www.wifirst.com/)
+
+Wifirst has developed the leading super high speed WiFi platform. It operates several hundred thousand intuitive, secure, high-performance connected spaces in Europe and Africas. 
+
+Wifirst has established itself as the no. 1 provider of managed WiFi in the Hospitality & Student accomodation market through constantly adapting its solution to meet the growing demands of users. 
+
+Major players like AccorHotels, The Ascott, The French National Student Service (CROUS) and Nexity Studea have all entrusted Wifirst with meeting their connectivity needs. 
+
+Wifirst also supports the French army, providing WiFi services to defence bases in France as well as to theatres of operations overseas. Lastly, Wifirst plans to speed up its growth by targeting the major bank, insurance and retail networks. 
+
+- 650,000 units covered 
+- 7,000 sites equipped in 2430 cities
+- 130,000 WiFi access points monitored
+- over 16,000 TB of data exchanged per month and collected on Wifirst owned and operated carrier grade, fully redundant core network.
+
+ 
+
 ## Silver Sponsors
 
 ### [Abilian](https://abilian.com/)
 
 Abilian is an innovative open source software vendor in the emerging collaboration and business-oriented social networking market.
+
+
+### [Dolead](https://dolead.com/)
+
+Dolead's unique technology uses semantic (for creating an managing advertising campaigns from a database containing 1 billion+ keywords in 26 languages), algorithmic, comportemental statistics and ML to optimise the whole digital conversion funnel. 
+
+Our main tech stack: python 3.5 µservices deployed on 100+ AWS servers, MongoDB/ES/Redis, Ansible/Prometheus, React/Redux.
+
+Following our growth, we just raised 13M to double our tech team and expand to the USA.
+
+Come join us!
+
+### [JetBrains](https://jetbrains.com/)
+
+JetBrains delivers intelligent software solutions that make developers more productive by simplifying their challenging tasks, automating the routine, and helping them adopt the best development practices. PyCharm is the Python IDE for Professional Developers by JetBrains providing a complete set of tools for productive Python, Web and scientific development, available in three editions. The free and open-source PyCharm Community Edition is perfect for pure Python coding. PyCharm Professional Edition is designed for professional Python and Web developers.
+
 
 ### [Logilab](http://logilab.fr/)
 
@@ -45,6 +88,7 @@ Saint-Gobain Research Paris is one of eight major cross-business research center
 ### [STAT4DECISION](https://www.stat4decision.com/)
 
 STAT4DECISION is a French data science company. We offer training and consultancy in data science, data mining and engineering. From tailored training to online training, our highly qualified trainers are specialized in various domains such as Python, Machine Learning, Deep Learning, Spark… To help you in your projects with Python, take advantage of our consulting services.
+
 
 
 ## Media Partners

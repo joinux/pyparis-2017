@@ -3,22 +3,14 @@ title: PyParis 2018
 author: sfermigier
 template: home.html
 keynote_speakers:
-  - name: Andreas Müller
-    id: amueller
-    affiliation: Columbia University
-    bio: scikit-learn core developer / author of the O'Reilly book "Introduction to machine learning with Python".
-  - name: Nicholas Tollervey
-    id: ntoll
-    affiliation: Tollervey Ltd.
-    bio: software engineer, classically trained musician, philosophy graduate, teacher and writer.
-  - name: Sylvain Corlay
-    id: scorlay
-    affiliation: Quantstack
-    bio: Applied mathematician, open-source developer (contributor to Jupyter)
-  - name: "Ludovic Gasc"
-    id: lgasc
-    affiliation: Eyepea/ALLOcloud
-    bio: Senior software developer and engineer
+  - name: Nina Zakharenko
+    id: nnja
+    affiliation: Microsoft
+    bio: Cloud Developer Advocate at Microsoft, focusing on Python.
+  - name: Toby Decided
+    id: tbd
+    affiliation: N/A
+    bio: we're still working on this one
 ---
 
 ## Attending PyParis 2018
@@ -69,6 +61,6 @@ to make the best event possible for the benefit of the Python community.
 - 2018/09/15 CFP opens
 - <strike>2018/09/30 CFP closes</strike></li>
 - <b>2018/10/07 real and definitive deadline for the CFP</b>
-- 2018/10/09 Speakers are notified
+- 2018/10/14 (or close to this date) Speakers are notified
 - 2018/10/14 End of early birds registration
 - 2018/11/14 PyParis opens

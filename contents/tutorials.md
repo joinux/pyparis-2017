@@ -12,6 +12,13 @@ blockquote p {
 </style>
 
 
-# Tutorials
+# Tutorials (90 minutes each)
 
-We plan to host a few tutorials (maybe 4 or 5). 
+Tutorials will take place on the 15th.
+
+- Dataviz with matplotlib and seaborn (Francis Wolinski, Yotta Conseil)
+- GeoSpatial Data Analysis using Python (Fereshteh ASGARI, Research Engineer)
+- Machine learning using scikit-learn (Guillaume Lemaitre, INRIA)
+- Parallel Data Analysis with Dask (Loïc Estève, Inria)
+- Understanding and diagnosing your machine-learning models (Gael Varoquaux, Inria)
+- Tutorial: Python Micro-services with Kubernetes (Michael Bright, @mjbright Consulting)
