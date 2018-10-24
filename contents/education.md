@@ -13,6 +13,8 @@ De plus, et afin d'encourager la participation à cette session de personnes qui
 
 https://www.weezevent.com/pyparis-2018-education
 
+**Attention: le nombre de places est réellement limité, et il est indispensable de s'inscrire (tant qu'il reste des places). Aucune inscription sur place ne sera possible.**
+
 Le programme contient actuellement 3 interventions:
 
 - Girls Can Code! summer camps: an experience of teaching computer science to young girls. (Garance Gourdel, ENS Paris Saclay)
