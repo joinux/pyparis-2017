@@ -9,13 +9,13 @@ Une session spécifiquement dédiée à l'utilisation de Python dans l'éducatio
 
 Cette session est évidemment accessible à tous les participants à PyParis.
 
-De plus, et afin d'encourager la participation à cette session de personnes qui sont spécifiquement concernées par le thème de l'éducation (notamment les enseignants ou formateurs eux-même), nous avons décidé de la rendre gratuite, via cette billetterie:
+De plus, et afin d'encourager la participation à cette session de personnes qui sont spécifiquement concernées par le thème de l'éducation (notamment les enseignants ou formateurs eux-mêmes), nous avons décidé de la rendre gratuite, via cette billetterie :
 
 https://www.weezevent.com/pyparis-2018-education
 
-**Attention: le nombre de places est réellement limité, et il est indispensable de s'inscrire (tant qu'il reste des places). Aucune inscription sur place ne sera possible.**
+**Attention : le nombre de places est réellement limité, et il est indispensable de s'inscrire (tant qu'il reste des places). Aucune inscription sur place ne sera possible.**
 
-Le programme contient actuellement 3 interventions:
+Le programme contient actuellement 3 interventions :
 
 - Girls Can Code! summer camps: an experience of teaching computer science to young girls. (Garance Gourdel, ENS Paris Saclay)
 - How we used Python to introduce teenagers to the fun of programming (Anne-Marie Tousch, Criteo)
@@ -23,4 +23,4 @@ Le programme contient actuellement 3 interventions:
 
 et sera suivi par une table ronde que nous espérons riche d'échanges avec la salle.
 
-**Note: compte-tenu d'une présence internationale à la conférence PyParis, les interventions auront lieu an anglais.**
+**Note : compte-tenu d'une présence internationale à la conférence PyParis, les interventions auront lieu en anglais.**
