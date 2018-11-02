@@ -20,6 +20,10 @@ The enterprise-grade infrastructure of Microsoft Azure, Visual Studio Team Servi
 
 ## Gold sponsors
 
+### [Rapid.Space](https://rapid.space)
+
+Rapid.Space is a high performance, low cost and ethical cloud provider. It was founded in 2018 by Nexedi, the No 1 publisher of Enterprise Free Software in Europe. Rapid.Space is based exclusively on Free Sofware and Open Hardware '(Open Compute Project) produced by circular economy. A hosted Open Compute server with 20 Xeon cores, 256 GB RAM, 4TB SSD and 10 Gbps LAN is priced less than 200€ per month. All source code used in Rapid.Space infrastructure is public. Everyone can audit it and contribute to it.
+
 ### [Wifirst](http://www.wifirst.com/)
 
 Wifirst has developed the leading super high speed WiFi platform. It operates several hundred thousand intuitive, secure, high-performance connected spaces in Europe and Africas. 

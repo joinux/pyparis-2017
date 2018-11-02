@@ -22,5 +22,3 @@ Le programme contient actuellement 3 interventions :
 - Python @ Sorbonne Université (Frederic Peschanski, Sorbonne Université - LIP6)
 
 et sera suivi par une table ronde que nous espérons riche d'échanges avec la salle.
-
-**Note : compte-tenu d'une présence internationale à la conférence PyParis, les interventions auront lieu en anglais.**
