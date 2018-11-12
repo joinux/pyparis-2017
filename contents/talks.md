@@ -70,6 +70,11 @@ h3, h4 {
 - Version control in 2018: present and future (Pierre-Yves David, Octobus.net)
 - What is asyncio and when to use it, an example with WatchGhost (Pierre Alexandre vuillard, hashbang.coop)
 
+### Theme: Devops
+
+- Bonobo, Airflow and Grafana to visualize your business (Romain Dorgueil, Makersquad)
+- Scaling from 0 to 60k RPM (Jean-Baptiste Aviat, Sqreen)
+
 ### Theme: Education
 
 
@@ -485,6 +490,28 @@ In this Talk, we will study the constraint that shaped the current generation of
 Asyncio has been released recently (2014). It enables asynchronous programming in Python, which necessitates a new way of thinking for developers used to synchronous programming. In this talk, we will try to explain how asynchronous programming works, how to use it with Python, and a few usecases it can solve.
 
 I will use WatchGhost (https://watchghost.readthedocs.io/en/latest/) as an illustration of asyncio use. WatchGhost is a simple and light monitoring tool written in Python using Tornado and asyncio libraries. It relies heavily on network communications and light configuration files to check network services. I will present how WatchGhost benefits from asynchronous programming capabilities given by Python.
+
+### Theme: Devops
+
+
+#### Bonobo, Airflow and Grafana to visualize your business (Romain Dorgueil, Makersquad)
+
+Zero-to-one hands-on introduction to building a business dashboard using Bonobo ETL, Airflow, and a bit of Grafana (because graphs are cool). Although the opposite is better, there is no need of prior knowledge about any of those tools.
+
+After a short introduction about the tools, we'll go through the following topics, using the real data of a small SaaS software:
+
+Plan (What data do we need to see?)
+Implement (How do we quickly get those graphs up?)
+Monitor (Are you sure your data's still there?)
+Iterate (How do we move on from there?)
+One can expect to be able to build a similar system at the end of the talk in a few days (of course, the implementation is only a small part of this process, data is what really matters).
+
+«Metrics you watch tend to improve over time»
+
+#### Scaling from 0 to 60k RPM (Jean-Baptiste Aviat, Sqreen)
+
+The journey of a startup starting from a single physical box serving hundreds of requests, to our current AWS infrastructure serving tens of thousands - and how we learned the importance of scalability the hard way.
+Obviously, our code base is 100% Python :)
 
 ### Theme: Education
 

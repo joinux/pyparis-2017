@@ -2,26 +2,21 @@
 
 from __future__ import print_function, unicode_literals
 
-from csv import reader
-from pprint import pprint
 from textwrap import dedent
 
 import pandas
-
-# df = pandas.read_csv("data/accepted-final.csv", encoding="utf8")
 from numpy import nan
 
 df = pandas.read_excel("data/accepted-final.xlsx")
-tracks = [
+themes = [
     "Core Python",
     "Data Science",
     "Tools",
     "Web & Cloud",
+    "Devops",
     "Education",
     "Tutorials"
 ]
-
-tutorials = []
 
 
 def speakers_info(d):
@@ -63,11 +58,10 @@ def gen_talks():
     """).strip())
     fd.write("\n\n## At a glance\n\n")
 
+    for theme in themes:
+        fd.write(f"\n### Theme: {theme}\n\n")
 
-    for track in tracks:
-        fd.write(f"\n### Theme: {track}\n\n")
-
-        if track == 'Education':
+        if theme == 'Education':
             fd.write(f"\nNOTE: Les présentations du track 'Education' ont lieu **en français**.\n\n")
 
         for i in range(0, len(df)):
@@ -77,7 +71,7 @@ def gen_talks():
                 talk_track = 'Tutorials'
             else:
                 talk_track = r['track']
-            if talk_track != track:
+            if talk_track != theme:
                 continue
 
             title = r['title_en']
@@ -85,10 +79,10 @@ def gen_talks():
             fd.write(f"- {title} {speakers_info(r)}\n")
 
     fd.write("\n----\n\n## Talk / Tutorials details\n")
-    for track in tracks:
-        fd.write(f"\n### Theme: {track}\n\n")
+    for theme in themes:
+        fd.write(f"\n### Theme: {theme}\n\n")
 
-        if track == 'Education':
+        if theme == 'Education':
             fd.write(f"\nNOTE: Les présentations du track 'Education' ont lieu **en français**.\n\n")
 
         for i in range(0, len(df)):
@@ -98,7 +92,7 @@ def gen_talks():
                 talk_track = 'Tutorials'
             else:
                 talk_track = r['track']
-            if talk_track != track:
+            if talk_track != theme:
                 continue
 
             title = r['title_en']
