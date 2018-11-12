@@ -4,6 +4,7 @@ HOST=pyparis.org
 
 build:
 	# ./pyparis-to-talks.py
+	./scripts/gen_prog.py
 	yarn run wintersmith build
 
 serve:

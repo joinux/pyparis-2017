@@ -17,6 +17,8 @@ The conference will take place on November 14-15, 2018, from 9:00 (gates will op
 
 See also the [talks](/talks.html)
 
+[The detailed schedule](/static/pdf/Schedule-PyParis-2018.pdf) is available as a PDF file.
+
 
 ## Day 1 (November 14th)
 

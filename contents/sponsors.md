@@ -125,6 +125,11 @@ Abilian is an open-source software vendor proposing innovative solutions for you
 
 Born in 1984, EPITA (from the French Ecole pour l'Informatique et les Techniques Avancées : School of Computer Science & Advanced Techniques) has been steadily gaining a reputation of excellence among multinational companies, which often recruit our students before the end of their studies. At EPITA, computing and information technologies are considered fundamental subjects and are always placed in the context of students' future managerial role and within the perspective of their position of responsibility. Scientific studies complement this training to broaden and complete the scientific culture vital to the future engineer.
 
+### [AFPY](https://www.afpy.org/)
+
+Créée en décembre 2004, l'AFPy (Association Francophone Python) a pour but de promouvoir le langage Python, que ce soit auprès d'un public averti ou débutant. Pour ce faire, des évènements sont organisés régulièrement au niveau local et d'autres évènements à un niveau plus général.
+
+
 ### [Numfocus](http://numfocus.org/)
 
 The mission of NumFOCUS is to promote sustainable high-level programming languages, open code development, and reproducible scientific research. We accomplish this mission through our educational programs and events as well as through fiscal sponsorship of open source data science projects. We aim to increase collaboration and communication within the scientific computing community.

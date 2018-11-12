@@ -3,9 +3,9 @@ title: Session Éducation
 template: text.html
 ---
 
-# Cycle éducation PyParis
+# Cycle éducation PyParis (14h-18h)
 
-Une session spécifiquement dédiée à l'utilisation de Python dans l'éducation, notamment pour l'enseignement de l'ISN, aura lieu le mercredi 14 novembre à 14h.
+Une session spécifiquement dédiée à l'utilisation de Python dans l'éducation, notamment pour l'enseignement de l'ISN, aura lieu le mercredi 14 novembre de 14h à 18h.
 
 Cette session est évidemment accessible à tous les participants à PyParis.
 

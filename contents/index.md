@@ -7,10 +7,10 @@ keynote_speakers:
     id: nnja
     affiliation: Microsoft
     bio: Cloud Developer Advocate at Microsoft, focusing on Python.
-  - name: Toby Decided
-    id: tbd
-    affiliation: N/A
-    bio: we're still working on this one
+  - name: David Louapre
+    id: louapre
+    affiliation: Science Etonnante & Ubisoft
+    bio: Creator of the YouTube channel "Science Etonnante" and Chief Scientist at Ubisoft
 ---
 
 ## Attending PyParis 2018
@@ -27,7 +27,7 @@ business users in Paris, covering a large range of Python-related topics:
   how it's evolving and how to best leverage new features in the language
 - **Python in education**: experience reports from and outside the french education system
 
-<!-- See [the schedule](/schedule.html) for more information about the program. -->
+See [the schedule](/schedule.html) for more information about the program.
 
 ### Why attend?
 
