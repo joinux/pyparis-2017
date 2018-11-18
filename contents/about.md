@@ -54,16 +54,27 @@ And who are organizing, among other things, the [PyData Paris Meetup](https://ww
 <a id="pc"></a>
 ## Program Commitee
 
-(This is last year's program commitee, we'll update the list very soon.)
+### This year
+
+(Some of the PC members will double as session chairs during the event.)
 
 - [Sylvain Corlay](https://github.com/sylvaincorlay)
 - [Stefane Fermigier](http://www.fermigier.com/)
+- [Sébastien Fréal-Saison](https://www.linkedin.com/in/sébastien-fréal-saison-ab57a51/)
 - [Alexandre Gramfort](http://alexandre.gramfort.net/)
-- [Amandine Nayrolles](https://www.linkedin.com/in/nayrollesa/)
+- [Emmanuel Jakobowicz](https://www.linkedin.com/in/ejakobowicz)
+- [Jules Lasne](https://github.com/Seluj78)
+- [Eric Lebigot](https://www.linkedin.com/in/eolebigot/)
 - [Jean-Paul Smets](http://10ans.dysruptiv.org/p/jean-paul-smets-ceo-nexedi.html)
 - [Gaël Varoquaux](http://gael-varoquaux.info/)
+- [Nelle Varoquaux](https://www.stat.berkeley.edu/~nelle/) (yes they are related: brother & sister)
 - [Jill-Jênn Vie](http://jill-jenn.net/)
+
+### Alumni
+
+- [Amandine Nayrolles](https://www.linkedin.com/in/nayrollesa/)
 - [Tarek Ziadé](http://www.ziade.org/)
+
 
 
 <a id="coc"></a>
